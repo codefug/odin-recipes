@@ -4,6 +4,12 @@ html{
 .index{
     font-size:30px;
     color: rgb(255, 164, 60);
+    margin:10px 0px;
+}
+
+.index a{
+    font-size: inherit;
+    color: inherit;
 }
 
 h1{
@@ -19,4 +25,19 @@ h1 a{
 h2{
     font-weight:100;
     color: coral;
+}
+
+header{
+    width:auto;
+    height:auto;
+    text-align: center;
+}
+
+.food-image{
+    height: 529px;
+    width: auto;
+}
+
+.main-title{
+    text-align: center;
 }
